@@ -1,0 +1,6 @@
+{
+  "name": "CarLore",
+  "description": "Independent used car verification platform for first-time buyers in India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
